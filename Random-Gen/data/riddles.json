@@ -1,0 +1,645 @@
+[
+    {
+        "id": "AA-001",
+        "game": "Arkham Asylum",
+        "text": "Don't cut yourself on this Sharply observed portrait.",
+        "answers": ["Quincy Sharp", "Warden Sharp"]
+    },
+
+    {
+        "id": "AA-002",
+        "game": "Arkham Asylum",
+        "text": "You don't know Jack about Gotham. Tune in to find out.",
+        "answers": ["Jack Ryder"]
+    },
+
+    {
+        "id": "AA-003",
+        "game": "Arkham Asylum",
+        "text": "A top hat and tails is the only dress code for this party in the North.",
+        "answers": ["The Penguin", "Oswald Cobblepott"]
+    },
+
+     {
+        "id": "AA-004",
+        "game": "Arkham Asylum",
+        "text": "The legacy of this island has been well and truly buried.",
+        "answers": ["Amadues Arkham"]
+    },
+
+    {
+        "id": "AA-005",
+        "game": "Arkham Asylum",
+        "text": "Gotham's greatest family towers over the city",
+        "answers": ["The Waynes", "Waynes"]
+    },
+
+    {
+        "id": "AA-006",
+        "game": "Arkham Asylum",
+        "text": " Let's face it, there are two Dents on the wall..",
+        "answers": ["Two-face", "Harvey dent"]
+    },
+
+    {
+        "id": "AA-007",
+        "game": "Arkham Asylum",
+        "text": "Tweedledum and Tweedledee SAW it, can you SEE it?",
+        "answers": ["See-Saw", "see-saw"]
+    },
+
+    {
+        "id": "AA-008",
+        "game": "Arkham Asylum",
+        "text": " TICK! TOCK! News flash! Someone is not getting out of here alive.",
+        "answers": ["Killer Croc", "Waylon Jones"]
+    },
+
+    {
+        "id": "AA-009",
+        "game": "Arkham Asylum",
+        "text": "Was this fire fly too hot off the press?",
+        "answers": ["Fire fly", "Firefly", "Fire-fly", "Garfield Lynns"]
+    },
+
+    {
+        "id": "AA-010",
+        "game": "Arkham Asylum",
+        "text": "Shhhhsshh! Rumors persist that Tommy Elliot operates in Arkham. Can it be true?",
+        "answers": ["Hush", "Thomas Elliot", "Identity Thief"]
+    },
+
+    {
+        "id": "AA-011",
+        "game": "Arkham Asylum",
+        "text": "What silent killer of the oceans can be found in a tiny jar?",
+        "answers": ["Great white shark", "Warren White"]
+    },
+
+    {
+        "id": "AA-012",
+        "game": "Arkham Asylum",
+        "text": "Is this bear the Bane of his life?",
+        "answers": ["Bane"]
+    },
+
+    {
+        "id": "AA-013",
+        "game": "Arkham Asylum",
+        "text": "Who is the main man in the main hall?",
+        "answers": ["Gordan", "Jim", "Jim Gordan", "Comissioner"]
+    },
+
+    {
+        "id": "AA-014",
+        "game": "Arkham Asylum",
+        "text": "Did Amadeus go mad, or was he just dizzy",
+        "answers": ["Amadues Arkham"]
+    },
+
+    {
+        "id": "AA-015",
+        "game": "Arkham Asylum",
+        "text": "It'll be a cold day in Hell when this Ghul rises again.",
+        "answers": ["Ras al Ghul", "The demon's head", "Great One"]
+    },
+
+    {
+        "id": "AA-016",
+        "game": "Arkham Asylum",
+        "text": "How do you mask your feelings without losing control?",
+        "answers": ["Black Mask", "Roman Sionis"]
+    },
+
+    {
+        "id": "AA-017",
+        "game": "Arkham Asylum",
+        "text": "What does a bird need in the rain?",
+        "answers": ["Umbrella"]
+    },
+
+    {
+        "id": "AA-018",
+        "game": "Arkham Asylum",
+        "text": "What does a bird need in the rain?",
+        "answers": ["Umbrella"]
+    },
+
+    {
+        "id": "AA-019",
+        "game": "Arkham Asylum",
+        "text": "A game of Cat and mouse can be painful.",
+        "answers": ["Catwoman", "Selena Kyle"]
+    },
+
+    {
+        "id": "AA-020",
+        "game": "Arkham Asylum",
+        "text": "Isn't the Warden too old for a puppet show?",
+        "answers": ["Scarface", "scarface"]
+    },
+
+    {
+        "id": "AA-021",
+        "game": "Arkham Asylum",
+        "text": "How do you reflect on your successes and failures, Batman?",
+        "answers": ["Self reflect"]
+    },
+
+    {
+        "id": "AA-022",
+        "game": "Arkham Asylum",
+        "text": "Two people, one voice, no gun?",
+        "answers": ["Scarface", "Ventriloquist"]
+    },
+
+    {
+        "id": "AA-023",
+        "game": "Arkham Asylum",
+        "text": "This room is the end of days for even the most celebrated killer.",
+        "answers": ["Calendar Man", "Julian day"]
+    },
+
+    {
+        "id": "AA-024",
+        "game": "Arkham Asylum",
+        "text": "What has four walls, two sides, and one ex-DA?",
+        "answers": ["Two-face", "Harvey dent"]
+    },
+
+    {
+        "id": "AA-025",
+        "game": "Arkham Asylum",
+        "text": "All alone in your cell? Why don't you break the ice with the most dangerous prisoners?",
+        "answers": ["Mr.Freeze", "Victor Fries", "Victor"]
+    },
+
+    {
+        "id": "AA-026",
+        "game": "Arkham Asylum",
+        "text": "What time is tea time in Wonderland?",
+        "answers": ["Mad Hatter", "Mad hatter", "Jervis Tetch"]
+    },
+
+    {
+        "id": "AA-027",
+        "game": "Arkham Asylum",
+        "text": "All alone in your cell? Why don't you break the ice with the most dangerous prisoners?",
+        "answers": ["Mr.Freeze", "Victor Fries", "Victor"]
+    },
+
+    {
+        "id": "AA-028",
+        "game": "Arkham Asylum",
+        "text": "Hook up with the relatives before you're transferred out of here.",
+        "answers": ["Cash", "Aaron Cash"]
+    },
+
+    {
+        "id": "AA-029",
+        "game": "Arkham Asylum",
+        "text": "Our records show that a Strange transfer request was made in this room.",
+        "answers": ["Hugo Strange", "Professor Strange", "Dr.Strange"]
+    },
+
+    {
+        "id": "AA-030",
+        "game": "Arkham Asylum",
+        "text": " Dr. Jonathan Crane plans on elevating fear to new depths.",
+        "answers": ["ScareCrow", "Scarecrow", "Crane"]
+    },
+
+    {
+        "id": "AC-001",
+        "game": "Arkham City",
+        "text": "Its far from PURRFECT, but she calls it home.",
+        "answers": ["Catwoman's Apartment"]
+    },
+
+    {
+        "id": "AC-002",
+        "game": "Arkham City",
+        "text": "You have been warned. People arent the only unstable part of this city.",
+        "answers": ["Catastrophic Subsidence.", "Arkham City streets", "Arkham City"]
+    },
+
+    {
+        "id": "AC-003",
+        "game": "Arkham City",
+        "text": "DA campaign special: Get two votes, for the price of one.",
+        "answers": ["Courthouse", "Two-Face", "Campaign Office"]
+    },
+
+    {
+        "id": "AC-004",
+        "game": "Arkham City",
+        "text": "I wonder how you can land an appointment with this milliner? Perhaps it would be best to book?",
+        "answers": ["Mad Hatter", "Alice in the Wonderland"]
+    },
+
+    {
+        "id": "AC-004",
+        "game": "Arkham City",
+        "text": "Has this flower turned over a new leaf?",
+        "answers": ["Poison Ivy", "Pamela Isley", "Red", "Plant Lady"]
+    },
+
+    {
+        "id": "AC-005",
+        "game": "Arkham City",
+        "text": "This den is where the vicious animals take your treasure. Is it theft, if its already stolen?",
+        "answers": ["Vault", "Tyger Guards"]
+    },
+
+    {
+        "id": "AC-006",
+        "game": "Arkham City",
+        "text": "Do you have Strange thoughts? Maybe you should seek help?",
+        "answers": ["Strange Winds", "Hugo"]
+    },
+
+    {
+        "id": "AC-007",
+        "game": "Arkham City",
+        "text": "I am an actor who can transform a film with the final cut. Who am I",
+        "answers": ["ClayFace", "Basil Karlo", "ShapeShifter"]
+    },
+
+    {
+        "id": "AC-008",
+        "game": "Arkham City",
+        "text": "Six legs went in and only two came out. Where am I?",
+        "answers": ["Waynes", "Crime Alley"]
+    },
+
+    {
+        "id": "AC-009",
+        "game": "Arkham City",
+        "text": "Acing this chemistry test will illuminate you.",
+        "answers": ["Ace Chemicals"]
+    },
+
+    {
+        "id": "AC-010",
+        "game": "Arkham City",
+        "text": "BANG! BANG! Order in the court.",
+        "answers": ["Twin pistols", "Gavel"]
+    },
+
+    {
+        "id": "AC-011",
+        "game": "Arkham City",
+        "text": "Who is crazy enough to date this guy?",
+        "answers": ["Calendar Man", "Cell"]
+    },
+
+    {
+        "id": "AC-012",
+        "game": "Arkham City",
+        "text": "If you find the name, does the Cash come hand in hand?",
+        "answers": ["Church", "Medical Center", "Family Photo"]
+    },
+
+    {
+        "id": "AC-013",
+        "game": "Arkham City",
+        "text": "I am an instrument whose music always comes from the heart. What am I?",
+        "answers": ["Organ"]
+    },
+
+    {
+        "id": "AC-014",
+        "game": "Arkham City",
+        "text": "Which acrobat family gambled with their lives, and has now been left to fly solo?",
+        "answers": ["Flying Grayson's", "The Flying Grayson's"]
+    },
+
+    {
+        "id": "AC-015",
+        "game": "Arkham City",
+        "text": "Would an invitation to party like the gods be a bolt out of the blue?",
+        "answers": ["Zues", "Maxie", "Maxie Zues"]
+    },
+
+    {
+        "id": "AC-016",
+        "game": "Arkham City",
+        "text": "If you're afraid, don't be scared to crow about it.",
+        "answers": ["Scarecrow"]
+    },
+
+    {
+        "id": "AC-017",
+        "game": "Arkham City",
+        "text": "This place has taken a TURN for the worse. Is it a little BEAR for your tastes?",
+        "answers": ["Bane"]
+    },
+
+    {
+        "id": "AC-018",
+        "game": "Arkham City",
+        "text": "Always a shining example of Justice? Not if you ask me.",
+        "answers": ["Bat-Signal"]
+    },
+
+    {
+        "id": "AC-019",
+        "game": "Arkham City",
+        "text": "If she is the ROOT of evil, how could anyone be expected to CONTAIN her?",
+        "answers": ["Poison Ivy"]
+    },
+
+    {
+        "id": "AC-020",
+        "game": "Arkham City",
+        "text": "Look out! Can you see where the madness began?",
+        "answers": ["Arkham Asylum", "Arkham Island"]
+    },
+
+    {
+        "id": "AC-021",
+        "game": "Arkham City",
+        "text": "Which notorious family keeps talking trash?",
+        "answers": ["Falcone", "Falcone Shipping"]
+    },
+
+    {
+        "id": "AC-022",
+        "game": "Arkham City",
+        "text": "Can you find this cool couple before the romance thaws?",
+        "answers": ["Nora", "Victor", "Fries"]
+    },
+
+    {
+        "id": "AC-023",
+        "game": "Arkham City",
+        "text": "Breaking news! Get out while you still can.",
+        "answers": ["Arkham City"]
+    },
+
+        {
+        "id": "AC-024",
+        "game": "Arkham City",
+        "text": "If you're planning on making a mark in Arkham City, you'll need a special kind of realtor.",
+        "answers": ["Zsasz"]
+    },
+
+        {
+        "id": "AC-025",
+        "game": "Arkham City",
+        "text": "Was this parasite ratted out, or does he continue to plague Gotham?",
+        "answers": ["RatCatcher", "Rat-Catcher"]
+    },
+
+        {
+        "id": "AC-026",
+        "game": "Arkham City",
+        "text": "BOARD at drive-time? I'm not going to broadcast any more clues!",
+        "answers": ["Vicki Vale"]
+    },
+
+        {
+        "id": "AC-027",
+        "game": "Arkham City",
+        "text": "Coming back from the dead is cheating in any day of the week.",
+        "answers": ["Solomon Grundy"]
+    },
+
+        {
+        "id": "AC-028",
+        "game": "Arkham City",
+        "text": "This Killer was collared, but is he now on the loose?",
+        "answers": ["Killer Croc", "Croc"]
+    },
+
+        {
+        "id": "AC-029",
+        "game": "Arkham City",
+        "text": "Do you need to look SHARP to campaign for change?",
+        "answers": ["Mayor Sharp"]
+    },
+
+        {
+        "id": "AC-030",
+        "game": "Arkham City",
+        "text": "Surely someone was clowning around when they qualified this person?",
+        "answers": ["Harley Quinn"]
+    },
+
+        {
+        "id": "AC-031",
+        "game": "Arkham City",
+        "text": "Once assembled, do these two become one again?",
+        "answers": ["Hammer", "Sickle"]
+    },
+
+        {
+        "id": "AC-032",
+        "game": "Arkham City",
+        "text": "Have Joker's pets laughed themselves to death or just eaten too much?",
+        "answers": ["Bud and Lou", "Bud", "Lou"]
+    },
+
+        {
+        "id": "AK-001",
+        "game": "Arkham Knight",
+        "text": "Joining your mission can come with a cost, this empty reminder shows just what she lost.",
+        "answers": ["Oracle", "Batgirl"]
+    },
+
+        {
+        "id": "AK-002",
+        "game": "Arkham Knight",
+        "text": " A souvenir from a previous life, why hold with a hand when a hook will suffice?",
+        "answers": ["Cash"]
+    },
+
+    {
+        "id": "AK-003",
+        "game": "Arkham Knight",
+        "text": "Always looking for names to besmirch, where does this newsman conduct his research??",
+        "answers": ["Desk"]
+    },
+    
+    {
+        "id": "AK-004",
+        "game": "Arkham Knight",
+        "text": "Business is best when Bats need killing, a mercenary's life should receive top billing.",
+        "answers": ["Deathstroke"]
+    },
+
+    {
+        "id": "AK-005",
+        "game": "Arkham Knight",
+        "text": "Hope shines brightly in a city this dark, find the source of that signal and you'll soon hit your mark.",
+        "answers": ["Bat-Signal"]
+    },
+
+    {
+        "id": "AK-006",
+        "game": "Arkham Knight",
+        "text": "An open house for bed and dinner, is this sanctuary run by saint or sinner?",
+        "answers": ["Deacon Blackfire"]
+    },
+
+    {
+        "id": "AK-007",
+        "game": "Arkham Knight",
+        "text": "A bat uses these to see at night, the doc's didn't work and his cure caused a fright.",
+        "answers": ["Kirk Langstrom", "ManBat"]
+    },
+
+    {
+        "id": "AK-008",
+        "game": "Arkham Knight",
+        "text": "Overgrown, abandoned, the inmates set free, madness could never be held in me.",
+        "answers": ["Arkham Asylum"]
+    },
+
+    {
+        "id": "AK-009",
+        "game": "Arkham Knight",
+        "text": "She stands at our center that we may not weaken, a symbol of hope, a towering beacon.",
+        "answers": ["Lady of Gotham"]
+    },
+
+    {
+        "id": "AK-010",
+        "game": "Arkham Knight",
+        "text": "It doesn't take much to tame a Cat, make them wear this and then call the bat.",
+        "answers": ["Catwoman"]
+    },
+
+    {
+        "id": "AK-011",
+        "game": "Arkham Knight",
+        "text": "You forced this contraption over my brain, I'll reward you with punishment, debasement and pain.",
+        "answers": ["Head Piece", "Riddler Trap"]
+    },
+
+    {
+        "id": "AK-012",
+        "game": "Arkham Knight",
+        "text": "Friends of the Waynes though not as wealthy, their memorial ward keeps Gotham healthy.",
+        "answers": ["Elliots"]
+    },
+
+    {
+        "id": "AK-013",
+        "game": "Arkham Knight",
+        "text": "The Prince of Gotham sits high in his tower, yet this picture recalls a happier hour.",
+        "answers": ["Bruce Wayne"]
+    },
+
+    {
+        "id": "AK-014",
+        "game": "Arkham Knight",
+        "text": "A natural cure for Scarecrow's doom, your savior's gone but still in bloom.",
+        "answers": ["Poison Ivy"]
+    },
+
+    {
+        "id": "AK-015",
+        "game": "Arkham Knight",
+        "text": "Disarming, charming, quite the inquisitor. She'll pull back the vale, whoever her visitor.",
+        "answers": ["Vicki Vale"]
+    },
+
+    {
+        "id": "AK-016",
+        "game": "Arkham Knight",
+        "text": "The League of Assassins stuck blades through hearts, now they impale each other's art.",
+        "answers": ["Loyalist", "Rebels"]
+    },
+
+    {
+        "id": "AK-017",
+        "game": "Arkham Knight",
+        "text": "Far away the deflated brute roams, leaving behind what he couldn't ship home.",
+        "answers": ["Bane"]
+    },
+
+    {
+        "id": "AK-018",
+        "game": "Arkham Knight",
+        "text": "This cold corporation changed his life forever, curing his wife now a chronic endeavor.",
+        "answers": ["Mr.Freeze"]
+    },
+
+    {
+        "id": "AK-019",
+        "game": "Arkham Knight",
+        "text": "A million dollar home for a spoilt child, his parents are dead but his parties are wild.",
+        "answers": ["Bruce Wayne"]
+    },
+
+    {
+        "id": "AK-020",
+        "game": "Arkham Knight",
+        "text": "A psycho killer's grim design, what has an angle but just one line?",
+        "answers": ["Zsasz"]
+    },
+
+    {
+        "id": "AK-021",
+        "game": "Arkham Knight",
+        "text": "He saved the date! All Hallow's Eve! But this calendar killer too his leave.",
+        "answers": ["Calendar Man"]
+    },
+
+    {
+        "id": "AK-022",
+        "game": "Arkham Knight",
+        "text": "He lives and dies in seven days, this beast you've teamed but his song still plays.",
+        "answers": ["Solomon Grundy"]
+    },
+
+    {
+        "id": "AK-023",
+        "game": "Arkham Knight",
+        "text": "An ancient order, lust for power consumed, their patron saint is here entombed.",
+        "answers": ["Azreal", "Saint Dumas"]
+    },
+
+    {
+        "id": "AK-024",
+        "game": "Arkham Knight",
+        "text": "Crusaders of old had a trusty steed. How much horsepower does a Dark Knight need?",
+        "answers": ["Batmobile", "Bat-mobile", "The Batmobile"]
+    },
+
+    {
+        "id": "AK-025",
+        "game": "Arkham Knight",
+        "text": "You? A father figure? Don't make me laugh. You overwork and break your staff.",
+        "answers": ["Robin"]
+    },
+
+    {
+        "id": "AK-026",
+        "game": "Arkham Knight",
+        "text": "She and her love are no longer together, she'll keep the flames burning forever and ever.",
+        "answers": ["Harley Quinn"]
+    },
+
+    {
+        "id": "AK-027",
+        "game": "Arkham Knight",
+        "text": "A psychotic doctor who caught the fear bug, the fruits of his research: a powerful drug.",
+        "answers": ["Scarecrow"]
+    },
+
+    {
+        "id": "AK-028",
+        "game": "Arkham Knight",
+        "text": "Vengeance burns darkly inside the betrayed, as they stare at reminders of debts unpaid.",
+        "answers": ["The Arkham Knight", "Jason"]
+    },
+
+    {
+        "id": "AK-029",
+        "game": "Arkham Knight",
+        "text": "With a fluffy white coat and ears standing tall, what burrowed the hole in which Alice did fall?",
+        "answers": ["Mad Hatter"]
+    }
+]

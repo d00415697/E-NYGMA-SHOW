@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arkham Riddle Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="container">
+        <header>
+            <h1>Enigma Machine</h1>
+            <p class="sub">Fiddle diddle diddle, answer my riddle.</p>
+        </header>
+
+        <section id="controls">
+            <button id="btn-new" class="btn primary"></button>
+
+            <div class="filters" aria-label="Game filters">
+                <label><input type="checkbox" id="chk-asylum" checked />Asylum</label>
+                <label><input type="checkbox" id="chk-city" checked />City</label>
+                <label><input type="checkbox" id="chk-knight" checked />Knight</label>
+            </div>
+        </section>
+
+        <section id="riddle-card" class="card hidden" aria-live="polite">
+            <div class="meta">
+                <span id="riddle-game" class="tag"></span>
+                <span id="riddle-id" class="muted"></span>
+            </div>
+
+            <p id="riddle-text" class="riddle"></p>
+
+            <form id="answer-form" autocomplete="off">
+                <input id="answer-input" type="text" placeholder="Type your answer..." required />
+                <button class="btn">Submit</button>
+                <button type="button" id="btn-reveal" class="btn ghost">Reveal</button>
+            </form>
+
+            <p id="feedback" class="feedback" role="status" aria-live="polite"></p>
+        </section>
+    </main>
+
+    <aside id="ledger" aria-label="Solved and revealed riddles">
+        <h2>Solved / Revealed</h2>
+        <ul id="ledger-list"></ul>
+    </aside>
+    <button id="btn-audio" class="btn ghost" aria-pressed="false">Music: Off</button>
+</body>
+<script src="app.js" type="module"></script>
+</html>
