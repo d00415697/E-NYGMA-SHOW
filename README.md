@@ -23,7 +23,7 @@ Loading / Error UI for the Fetch step.
 
 Riddler Neon UI (green glow on dark, readable over GIF).
 
-Background Music (DL.mp3) loops; attempts autoplay, falls back to first click/keypress.
+Background Music (DL.mp3) loops; attempts autoplay, falls back to first click/keypress "x".
 
 
 # Project Structure
@@ -42,4 +42,5 @@ Background Music (DL.mp3) loops; attempts autoplay, falls back to first click/ke
 Batman: Arkham names and references are property of their respective owners (WB Games / Rocksteady). 
 This project is for educational purposes only and ships no copyrighted text from the games—only student-authored riddle data.
 
-
+# Author
+De'ray Lowe
