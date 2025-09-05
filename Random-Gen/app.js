@@ -172,7 +172,6 @@ btnAudio.addEventListener('click', async () =>{
     } 
 });
 
-// document.addEventListener('DOMContentLoaded', loadRiddles);
 
 
 document.addEventListener('keydown', (e) =>{
